@@ -1,2 +1,2 @@
-# Splash-Screan-Timer
-Splash screen viewpager with timer example
+# Splash-Screen-Timer
+Splash Screen Timer with CircleIndicator
